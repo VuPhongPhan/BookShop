@@ -1,0 +1,31 @@
+H:\Lập trình web\Project\BookShop\Model\bin\Debug\Model.dll.config
+H:\Lập trình web\Project\BookShop\Model\bin\Debug\Model.dll
+H:\Lập trình web\Project\BookShop\Model\bin\Debug\Model.pdb
+H:\Lập trình web\Project\BookShop\Model\bin\Debug\EntityFramework.dll
+H:\Lập trình web\Project\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+H:\Lập trình web\Project\BookShop\Model\bin\Debug\EntityFramework.xml
+H:\Lập trình web\Project\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+H:\Lập trình web\Project\BookShop\Model\obj\Debug\Model.csproj.CopyComplete
+H:\Lập trình web\Project\BookShop\Model\obj\Debug\Model.dll
+H:\Lập trình web\Project\BookShop\Model\obj\Debug\Model.pdb
+H:\Lập trình web\Project\BookShop\Model\bin\Debug\PagedList.dll
+H:\Lập trình web\Project\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+H:\Lập trình web\Project\BookShop\Model\bin\Debug\PagedList.xml
+H:\Lập trình web\Project\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+H:\Lập trình web\Project\BookShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\bin\Debug\Model.dll.config
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\bin\Debug\Model.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\bin\Debug\Model.pdb
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\bin\Debug\EntityFramework.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\bin\Debug\PagedList.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\bin\Debug\EntityFramework.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\bin\Debug\PagedList.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\obj\Debug\Model.csproj.CopyComplete
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\obj\Debug\Model.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\obj\Debug\Model.pdb
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache

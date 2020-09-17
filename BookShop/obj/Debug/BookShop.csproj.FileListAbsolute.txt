@@ -1,0 +1,173 @@
+H:\Lập trình web\Project\BookShop\BookShop\bin\BookShop.dll.config
+H:\Lập trình web\Project\BookShop\BookShop\bin\BookShop.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\BookShop.pdb
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\csc.exe
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\csc.exe.config
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\csc.rsp
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\csi.exe
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\csi.exe.config
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\csi.rsp
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.AppContext.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Console.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.IO.Compression.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.IO.FileSystem.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.IO.Pipes.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.AccessControl.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.Claims.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.ValueTuple.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Xml.XPath.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\vbc.exe
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\vbc.exe.config
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\vbc.rsp
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+H:\Lập trình web\Project\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+H:\Lập trình web\Project\BookShop\BookShop\bin\Antlr3.Runtime.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\Model.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\Newtonsoft.Json.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Helpers.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Mvc.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Optimization.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Razor.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.WebPages.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\WebGrease.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\EntityFramework.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\Model.pdb
+H:\Lập trình web\Project\BookShop\BookShop\bin\Model.dll.config
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Helpers.xml
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Mvc.xml
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Optimization.xml
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Razor.xml
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.WebPages.xml
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+H:\Lập trình web\Project\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+H:\Lập trình web\Project\BookShop\BookShop\bin\Newtonsoft.Json.xml
+H:\Lập trình web\Project\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+H:\Lập trình web\Project\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Lập trình web\Project\BookShop\BookShop\bin\EntityFramework.xml
+H:\Lập trình web\Project\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+H:\Lập trình web\Project\BookShop\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+H:\Lập trình web\Project\BookShop\BookShop\obj\Debug\BookShop.dll
+H:\Lập trình web\Project\BookShop\BookShop\obj\Debug\BookShop.pdb
+H:\Lập trình web\Project\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+H:\Lập trình web\Project\BookShop\BookShop\bin\PagedList.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\PagedList.Mvc.dll
+H:\Lập trình web\Project\BookShop\BookShop\bin\PagedList.xml
+H:\Lập trình web\Project\BookShop\BookShop\bin\PagedList.Mvc.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\BookShop.dll.config
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\BookShop.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\BookShop.pdb
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\csc.exe
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\csc.exe.config
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\csc.rsp
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\csi.exe
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\csi.exe.config
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\csi.rsp
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.AppContext.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Console.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.IO.Compression.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.IO.FileSystem.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.IO.Pipes.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.AccessControl.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.Claims.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.ValueTuple.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Xml.XPath.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\vbc.exe
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\vbc.exe.config
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\vbc.rsp
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\Antlr3.Runtime.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\EntityFramework.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\Model.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\Newtonsoft.Json.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\PagedList.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\PagedList.Mvc.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Helpers.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Mvc.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Optimization.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Razor.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.WebPages.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\WebGrease.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\Model.pdb
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\Model.dll.config
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\EntityFramework.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\PagedList.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\PagedList.Mvc.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Helpers.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Mvc.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Optimization.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.Razor.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.WebPages.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\Newtonsoft.Json.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\obj\Debug\BookShop.dll
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\obj\Debug\BookShop.pdb
+H:\Kí 2 năm 3\Lập trình web\Project\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
